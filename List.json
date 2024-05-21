@@ -1,0 +1,80 @@
+{
+  "name": "DSWAP",
+  "timestamp": "2022-06-01T00:00:00.000Z",
+  "logoURI": "https://pbs.twimg.com/profile_images/1773746949641895938/kI5A79XS_400x400.jpg",
+  "version": {
+    "major": 20,
+    "minor": 25,
+    "patch": 17
+  },
+  "tokens": [
+    {
+      "name": "DegenSwap",
+      "address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
+      "symbol": "DSWAP",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773746949641895938/kI5A79XS_400x400.jpg"
+    },
+    {
+      "name": "wDEGEN",
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+      "symbol": "wDEGEN",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x4ed4e862860bed51a9570b96d89af5e1b0efefed.png?size=lg&key=e17c44"
+    },
+
+    {
+      "name": "DINU",
+      "address": "0x4c9436d7AaC04A40aca30ab101107081223D6e92",
+      "symbol": "DINU",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773813790494113792/ILqbGuqm_400x400.jpg"
+    },
+
+    {
+      "name": "Degen Pepe",
+      "address": "0x713D4B845AeaAf14DecF9f8014f41f6EcfA76A2D",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773971177020772352/xT9yrfht_400x400.jpg"
+    },
+
+    {
+      "name": "degen cet",
+      "address": "0xcf79Da9C663D446c6e0Da7e3B18Ce77Ff26da26a",
+      "symbol": "cet",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773998791496220672/iPKRbjNs_400x400.jpg"
+    },
+    {
+      "name": "All Time High",
+      "address": "0xeB1C32Ea4E392346795aED3607f37646E2a9c13F",
+      "symbol": "ATH",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1778176301163020288/HR4-CvQj_400x400.jpg"
+    },
+
+    {
+      "name": "Harold and the Purple Crayon",
+      "address": "0x4306030564ef40d6302dAA9B1Ace580Fe2dfd6c6",
+      "symbol": "PURP",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1774202835577475072/LwfY3gU1_400x400.jpg"
+    },
+    {
+      "name": "Based Degen Apes",
+      "address": "0x926687470f8185582CaF5Cd858fA5C7759C5eF1E",
+      "symbol": "APES",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://i.imgur.com/L7lVfBR.jpg"
+    }
+  ]
+}
