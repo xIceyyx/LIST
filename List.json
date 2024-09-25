@@ -3,9 +3,9 @@
   "timestamp": "2022-06-01T00:00:00.000Z",
   "logoURI": "https://pbs.twimg.com/profile_images/1773746949641895938/kI5A79XS_400x400.jpg",
   "version": {
-    "major": 20,
-    "minor": 25,
-    "patch": 17
+    "major": 21,
+    "minor": 26,
+    "patch": 18
   },
   "tokens": [
     {
@@ -32,6 +32,16 @@
       "decimals": 18,
       "chainId": 666666666,
       "logoURI": "https://pbs.twimg.com/profile_images/1773813790494113792/ILqbGuqm_400x400.jpg"
+    },
+
+
+        {
+      "name": "JAAD",
+      "address": "0x373e256C754Bf82f09071141b92bEafb83c38c68",
+      "symbol": "JAAD",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1288510309216292894/image.png?ex=66f5723d&is=66f420bd&hm=c63456e4132a215dd3d76034260225fcf2c59c2adde79870ec72d33d537e43f0&"
     },
 
     {
